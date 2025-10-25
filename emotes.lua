@@ -15,5 +15,9 @@ return {
   ["Confess-to-Me"] = 105722319548703,
   ["Die-Lit"] = 103285301180445,
   ["Druski-Pop-Out"] = 98405298116702,
-  ["Rollie"] = 81541548896210
+  ["Rollie"] = 81541548896210,
+  ["Rose-Gift-BEST"]= 117015838679383,
+  ["Jason-Vorhees-Dance-Goofy"]= 127633235542889,
+  ["Floating Throne Aura Pose"]= 9344311155663,
+  ["head-levitating-cool-pose"]= 111474274315212
 }
