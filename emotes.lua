@@ -19,5 +19,6 @@ return {
   ["Rose-Gift-BEST"]= 117015838679383,
   ["Jason-Vorhees-Dance-Goofy"]= 127633235542889,
   ["Floating Throne Aura Pose"]= 9344311155663,
-  ["head-levitating-cool-pose"]= 111474274315212
+  ["head-levitating-cool-pose"]= 111474274315212,
+  ["Needy Balance"] = 105953403043567
 }
